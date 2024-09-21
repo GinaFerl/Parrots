@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">Parrots</string>
+
+    <string name="parrots_name">Nama Parrots</string>
+    <string name="description">Deskripsi</string>
+    <string name="about_page">About</string>
+    <string name="about_name">Gina Ferlindawati</string>
+    <string name="about_email">ginaferlindawati@gmail.com</string>
+    <string name="image_about">image_about</string>
+
+    <string-array name="data_name">
+        <item>Kakatua Putih</item>
+        <item>Kakatua Jambul Kuning</item>
+        <item>Nimfa</item>
+        <item>Beo Kakatua</item>
+        <item>Beo Abu-abu Afrika</item>
+        <item>Burung Beo Nuri</item>
+        <item>Burung Beo Hijau</item>
+        <item>Burung Beo Amazon</item>
+        <item>Burung Beo Ciri Ciri</item>
+        <item>Burung Beo Lovebird</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>
+            Burung kakatua putih (Cacatua alba) adalah salah satu jenis kakatua yang berasal dari Maluku Utara, Indonesia. Burung ini memiliki ciri khas bulu yang hampir seluruhnya berwarna putih, dengan puncak kepala yang ditutupi jambul berwarna putih atau kadang kekuningan, yang dapat dinaikkan atau diturunkan sesuai suasana hati burung tersebut.
+            Burung ini memiliki ukuran sedang hingga besar, dengan panjang tubuh sekitar 46 cm. Hampir seluruh tubuhnya berwarna putih, namun bulu di bawah sayap dan ekor berwarna kekuningan. Paruhnya kuat dan berwarna hitam, digunakan untuk memecahkan makanan seperti biji-bijian dan buah-buahan. Iris matanya berwarna coklat gelap, dan kakinya berwarna abu-abu.
+            Kakatua putih biasanya ditemukan di hutan-hutan tropis dan subtropis, terutama di wilayah Maluku Utara seperti Halmahera. Mereka juga dapat dijumpai di hutan bakau dan tepi sungai. Kakatua putih termasuk dalam daftar spesies yang dilindungi karena populasinya yang semakin menurun akibat perburuan dan kehilangan habitat.
+            Perdagangan burung ini juga dibatasi oleh peraturan internasional melalui Konvensi Perdagangan Internasional Spesies Fauna dan Flora Liar yang Terancam Punah (CITES).
+            Sebagai hewan peliharaan, mereka membutuhkan perhatian dan perawatan yang tinggi karena sifat sosial dan kecerdasannya.
+        </item>
+        <item>
+            Burung kakatua jambul kuning, atau dalam bahasa ilmiah dikenal sebagai Cacatua galerita, adalah salah satu spesies kakatua yang paling ikonik dan populer di dunia. Burung ini terkenal karena jambul kuning cerahnya yang khas, serta kecerdasan dan kemampuannya meniru suara manusia.
+            Kakatua jambul kuning bukan hanya menarik karena penampilannya, tetapi juga perilaku sosialnya yang kompleks dan sifatnya yang ceria. Di beberapa negara, burung ini bahkan dianggap sebagai simbol kecerdasan dan persahabatan.
+            Kakatua jambul kuning memiliki ciri fisik yang sangat mudah dikenali. Salah satu yang paling mencolok adalah jambulnya yang berwarna kuning cerah. Jambul ini dapat dinaikkan dan diturunkan sesuai dengan kondisi emosional burung, seperti saat merasa terkejut, senang, atau waspada. Ketika jambul ini ditegakkan, burung tersebut tampak sangat mengesankan dan mencolok.
+            Burung kakatua jambul kuning dapat ditemukan di berbagai habitat, tetapi mereka paling sering dijumpai di wilayah hutan hujan tropis, sabana terbuka, hingga hutan mangrove. Mereka berasal dari Australia, Papua Nugini, dan beberapa pulau di Indonesia. Di Australia, mereka tersebar luas, terutama di bagian timur dan utara.
+            Di alam liar, burung ini cenderung membentuk kelompok besar, yang dapat terdiri dari puluhan hingga ratusan ekor, tergantung pada ketersediaan makanan.
+        </item>
+        <item>
+            Burung nimfa, atau yang dikenal dengan nama Cockatiel (Nymphicus hollandicus), adalah burung kecil dari keluarga kakatua yang berasal dari Australia. Burung ini sangat populer sebagai hewan peliharaan di seluruh dunia karena penampilannya yang menarik,
+            sifatnya yang ramah, serta kemampuannya meniru suara dan berbicara, meskipun lebih terbatas dibandingkan jenis kakatua lainnya. Burung nimfa memiliki tubuh berukuran kecil hingga sedang, dengan panjang sekitar 30 hingga 33 cm dan berat sekitar 80 hingga 100 gram.
+            Seperti kakatua lainnya, burung nimfa memiliki jambul di kepalanya yang dapat dinaikkan atau diturunkan tergantung suasana hati mereka. Burung nimfa memiliki variasi warna bulu yang beragam. Warna asli liar adalah abu-abu dengan pipi berwarna oranye cerah, dan jambul serta bagian bawah ekornya sedikit lebih kuning pada jantan.
+            Betina biasanya memiliki warna yang lebih pucat. iri fisik yang menonjol lainnya adalah bercak berwarna oranye cerah di pipi mereka, yang lebih jelas pada burung jantan dibandingkan betina. Burung nimfa berasal dari daerah pedalaman Australia dan hidup di wilayah kering serta semi-gurun.
+            Mereka cenderung berkelompok dan sering terlihat terbang dalam kawanan kecil di area yang terbuka, seperti padang rumput atau sabana, di dekat sumber air. Mereka merupakan burung yang nomaden, berpindah-pindah tempat untuk mencari makanan dan air sesuai musim.
+        </item>
+        <item>
+            Beo Kakatua, yang dalam bahasa ilmiahnya dikenal sebagai Eos bornea, adalah burung beo berukuran sedang yang berasal dari kepulauan Maluku di Indonesia. Burung ini juga dikenal dengan sebutan Kakatua Seram, dan menjadi salah satu spesies burung paruh bengkok yang menarik perhatian banyak pencinta burung karena penampilannya yang mencolok dan sifatnya yang energik.
+            Hampir seluruh tubuhnya tertutup bulu berwarna merah menyala. Bagian sayap dan ekornya memiliki campuran warna hitam dan biru, memberikan kontras yang indah dengan bulu merah dominan. urung ini berukuran sedang dengan panjang tubuh sekitar 30 cm. Tubuhnya yang ramping dengan sayap dan ekor yang relatif panjang memberikan penampilan yang anggun saat terbang.
+            Paruh burung ini berwarna oranye atau merah cerah, berbentuk bengkok khas burung pemakan biji-bijian dan buah-buahan. Paruh yang kuat digunakan untuk memecah makanan dan menjelajahi lingkungannya. Matanya kecil dengan iris yang berwarna kuning atau oranye, memberikan tampilan tajam dan cerdas.
+            Beo Kakatua ditemukan di Kepulauan Maluku, terutama di pulau Seram, Buru, dan Ambon. Burung ini biasanya hidup di hutan-hutan tropis, baik di hutan primer maupun sekunder, serta di tepi hutan dan area perkebunan. Mereka juga sering terlihat di sekitar tepi sungai atau wilayah hutan bakau.
+            Namun, ancaman dari perdagangan burung liar dan hilangnya habitat alami membuat populasinya rentan. Sebagai hewan peliharaan, mereka membutuhkan perawatan yang intensif, perhatian, dan lingkungan yang stimulatif untuk memastikan kesejahteraan mereka. Melalui upaya konservasi dan pengelolaan yang baik, kita dapat membantu melindungi spesies ini dari ancaman kepunahan.
+        </item>
+        <item>
+            Beo Abu-abu Afrika (Psittacus erithacus), atau dikenal sebagai African Grey Parrot, adalah salah satu spesies burung beo paling cerdas dan terkenal di dunia. Burung ini berasal dari hutan hujan tropis di Afrika Barat dan Afrika Tengah, serta dikenal karena kemampuan luar biasa mereka dalam meniru suara, berbicara, dan memahami konteks tertentu.
+            Beo Abu-abu Afrika sering dianggap sebagai burung peliharaan yang luar biasa karena kecerdasan, kepribadian, dan interaksi sosialnya yang mendalam dengan manusia. Beo Abu-abu Afrika memiliki bulu berwarna abu-abu lembut di seluruh tubuhnya. Warna abu-abu ini bervariasi dari gelap hingga terang di beberapa bagian tubuh. Sayapnya cenderung lebih gelap, sedangkan bagian kepala dan dada memiliki bulu yang sedikit lebih terang.
+            Salah satu ciri paling mencolok dari burung ini adalah ekornya yang berwarna merah cerah. Beo Abu-abu Afrika berukuran sedang, dengan panjang tubuh sekitar 30 hingga 33 cm, dan berat antara 400 hingga 600 gram. Burung ini memiliki mata berwarna kuning terang pada burung dewasa, sementara anak burung memiliki mata berwarna lebih gelap atau abu-abu.
+            Beo Abu-abu Afrika ditemukan di kawasan hutan hujan tropis Afrika Barat dan Tengah, termasuk di negara-negara seperti Ghana, Pantai Gading, Kamerun, Kongo, dan Gabon. Mereka hidup di hutan dataran rendah, sabana berhutan, serta hutan mangrove. Kecerdasan, kemampuan berbicara, dan ikatan sosial mereka menjadikannya salah satu burung peliharaan paling dihargai.
+            Namun, karena ancaman perdagangan ilegal dan hilangnya habitat, perlindungan terhadap spesies ini sangat penting. Sebagai hewan peliharaan, mereka membutuhkan perawatan yang intensif dan perhatian penuh untuk memastikan kesejahteraan dan kebahagiaannya.
+        </item>
+        <item>
+            Burung Beo Nuri (Lorius lory), juga dikenal sebagai Nuri Kepala Hitam atau Black-capped Lory, adalah salah satu spesies burung nuri yang menonjol karena warna bulu yang cerah dan sifat sosialnya. Burung ini berasal dari wilayah Papua, Papua Nugini, dan kepulauan sekitarnya. Seperti burung nuri pada umumnya, Burung Beo Nuri dikenal karena kecerdasannya dan kemampuannya meniru suara manusia.
+            Burung ini memiliki kombinasi warna yang sangat cerah dan menarik. Sebagian besar tubuhnya berwarna merah menyala, dengan bagian kepala yang memiliki warna hitam di atas (seperti topi hitam), yang menjadi asal nama "Nuri Kepala Hitam". Bagian punggung, sayap, dan ekornya memiliki campuran warna hijau, biru, dan kuning yang mencolok.
+            Paruh burung Beo Nuri berwarna oranye cerah, berbentuk kuat dan melengkung. Burung ini memiliki panjang sekitar 25-30 cm, dengan tubuh yang kompak dan sayap yang cukup panjang. Berat tubuhnya biasanya antara 200-300 gram. Matanya berwarna merah atau oranye, yang menambah kesan tajam pada wajahnya yang berwarna hitam.
+            Burung Beo Nuri ditemukan di wilayah hutan tropis dan hutan mangrove di Papua, Papua Nugini, dan pulau-pulau kecil di sekitarnya. Mereka lebih suka tinggal di hutan yang lebat dan sering kali hidup di daerah dataran rendah serta perbukitan. Burung ini cenderung menetap di ketinggian antara 100 hingga 1.000 meter di atas permukaan laut.
+            Mereka merupakan spesies burung nuri yang cerdas dan sosial, serta membutuhkan lingkungan yang penuh stimulasi untuk berkembang. Meskipun mereka populer sebagai burung peliharaan, ancaman dari perdagangan burung liar dan hilangnya habitat alami mereka menjadi perhatian serius. Upaya konservasi dan perlindungan habitat menjadi kunci penting untuk memastikan kelangsungan hidup spesies ini di alam liar.
+        </item>
+        <item>
+            Burung Beo Hijau (Eclectus roratus), atau dikenal sebagai Eclectus Parrot, adalah spesies burung beo yang terkenal karena perbedaan mencolok antara jantan dan betina dalam hal warna bulu, yang merupakan salah satu fenomena dimorfisme seksual paling unik di antara burung.
+            Burung ini berasal dari wilayah Kepulauan Pasifik dan Papua, termasuk Australia bagian utara dan pulau-pulau di sekitar Indonesia. Mereka adalah burung yang cerdas, sosial, dan sering dipelihara sebagai hewan peliharaan karena penampilan serta perilaku yang menarik. Burung jantan dari spesies ini memiliki bulu berwarna hijau terang yang menutupi hampir seluruh tubuhnya.
+            Berbeda dengan jantan, betina memiliki bulu berwarna merah cerah di bagian kepala dan dada, dengan warna biru atau ungu di bagian perut dan sayap. Burung Beo Hijau memiliki ukuran sedang, dengan panjang tubuh antara 35 hingga 40 cm dan berat sekitar 400 hingga 600 gram.
+            Jantan dan betina juga memiliki warna mata yang berbeda. Jantan memiliki mata berwarna kuning cerah, sementara mata betina cenderung berwarna kuning lebih gelap atau kemerahan. Burung Beo Hijau ditemukan di berbagai wilayah tropis di Papua Nugini, Kepulauan Solomon, Kepulauan Maluku, dan Australia bagian utara. Mereka hidup di hutan hujan tropis, hutan dataran rendah, serta kawasan hutan mangrove.
+            Burung ini sering tinggal di puncak pohon yang tinggi, di mana mereka membangun sarang dan mencari makanan. Mereka adalah burung yang indah dan menyenangkan untuk dipelihara, tetapi membutuhkan perhatian dan perawatan yang serius. Upaya konservasi tetap penting untuk memastikan populasi mereka tetap stabil di alam liar, mengingat ancaman terhadap habitat dan perdagangan burung liar yang terus berlangsung.
+        </item>
+        <item>
+            Burung Beo Amazon (Amazona amazonica), atau dikenal juga sebagai Orange-winged Amazon Parrot, adalah salah satu spesies burung beo yang berasal dari wilayah Amerika Selatan, terutama di daerah hutan hujan Amazon. Burung ini terkenal karena kecerdasannya, kemampuannya meniru suara, dan kepribadiannya yang energik. Mereka adalah salah satu burung beo Amazon yang paling populer sebagai hewan peliharaan karena sifatnya yang ramah dan kemampuan beradaptasi dengan baik.
+            Mayoritas bulu burung ini berwarna hijau terang, yang memungkinkan mereka berbaur dengan lingkungan hutan hujan tropis tempat mereka hidup. Meski begitu, mereka memiliki bercak-bercak berwarna oranye di bagian sayap, yang memberikan nama mereka “Orange-winged Amazon”. Terdapat juga sedikit warna biru di bagian dahi dan kuning di sekitar pipi. Paruh mereka kuat dan melengkung, dengan warna abu-abu gelap.
+            Burung Beo Amazon adalah burung berukuran sedang, dengan panjang tubuh sekitar 30-35 cm dan berat antara 350 hingga 500 gram. Mereka memiliki ekor pendek yang berbentuk persegi, khas burung beo dari genus Amazona. Mata mereka berwarna oranye atau coklat kemerahan.
+            Burung Beo Amazon berasal dari kawasan tropis Amerika Selatan, terutama di sekitar cekungan Amazon. Mereka tersebar luas di negara-negara seperti Brasil, Kolombia, Venezuela, Peru, Ekuador, Suriname, dan Trinidad dan Tobago. Habitat utama mereka adalah hutan hujan tropis, hutan rawa, serta area hutan sekunder yang lebih terbuka. Mereka juga dapat ditemukan di tepi hutan dan di daerah-daerah pertanian yang berdekatan dengan hutan.
+            Meskipun mereka populer sebagai hewan peliharaan, mereka membutuhkan perawatan yang baik dan interaksi sosial yang cukup. Upaya konservasi untuk melindungi habitat mereka dan mengurangi perdagangan burung liar menjadi penting untuk memastikan kelangsungan hidup burung yang menakjubkan ini di alam liar.
+        </item>
+        <item>
+            Burung Beo Ciri-ciri (Aratinga solstitialis), juga dikenal sebagai Sun Conure atau Sun Parakeet, adalah salah satu spesies burung beo berukuran kecil hingga sedang yang berasal dari Amerika Selatan. Burung ini terkenal karena warna bulunya yang cerah dan kepribadian yang penuh semangat, menjadikannya salah satu burung peliharaan yang populer. Sun Conure termasuk dalam kelompok parakeet, yang memiliki ciri tubuh yang ramping dan ekor yang panjang.
+            Burung ini dinamai Sun Conure karena bulunya yang berwarna seperti matahari. Warna tubuhnya didominasi oleh kuning cerah, dengan campuran oranye pada wajah dan bagian dada, serta beberapa warna hijau pada sayap dan ekor. Bagian ujung sayap juga sering kali berwarna biru atau hijau tua. Kombinasi warna ini membuat Sun Conure sangat mencolok dan indah dilihat.
+            Sun Conure adalah burung berukuran kecil hingga sedang dengan panjang tubuh sekitar 30 cm dan berat antara 100 hingga 120 gram. Mata burung ini berwarna cokelat tua, yang dikelilingi oleh cincin kulit putih tanpa bulu di sekitar matanya.
+            Tidak ada perbedaan mencolok antara jantan dan betina dari segi warna bulu, sehingga sulit membedakan jenis kelamin burung ini hanya berdasarkan penampilan. Tes DNA atau pengamatan perilaku biasanya diperlukan untuk menentukan jenis kelamin mereka. Sun Conure berasal dari wilayah tropis Amerika Selatan, terutama ditemukan di negara-negara seperti Brasil, Guyana, Venezuela, dan Suriname.
+            Mereka umumnya hidup di hutan tropis, tepi hutan, dan sabana yang berdekatan dengan hutan. Selain itu, mereka juga dapat ditemukan di daerah hutan sekunder dan padang rumput terbuka, terutama di sekitar sungai. Meskipun mereka menghadapi ancaman di alam liar, termasuk hilangnya habitat dan perdagangan burung liar, Sun Conure tetap menjadi salah satu burung peliharaan yang paling dicintai di seluruh dunia.
+        </item>
+        <item>
+            Burung Beo Lovebird (Agapornis spp.), atau lebih dikenal sebagai lovebird, adalah kelompok kecil burung beo yang terkenal karena sifatnya yang penuh kasih dan perilaku sosial yang erat. Nama "lovebird" berasal dari kecenderungan mereka untuk membentuk ikatan yang kuat dengan pasangan mereka, sering terlihat berpelukan dan saling membersihkan bulu. Burung ini termasuk dalam genus Agapornis dan terdiri dari sembilan spesies yang tersebar di Afrika dan Madagaskar.
+            Burung lovebird umumnya berukuran kecil dengan panjang tubuh sekitar 13 hingga 17 cm, tergantung pada spesiesnya. Mereka memiliki tubuh yang gemuk dengan ekor pendek dan paruh yang melengkung. Warna bulu lovebird sangat bervariasi tergantung spesies, tetapi biasanya mencolok dan cerah.
+            Kebanyakan spesies lovebird tidak menunjukkan dimorfisme seksual yang jelas. Artinya, sulit membedakan antara jantan dan betina berdasarkan penampilan fisik. Tes DNA sering kali diperlukan untuk memastikan jenis kelamin mereka. Lovebird berasal dari benua Afrika dan pulau Madagaskar. Mereka hidup di berbagai habitat, termasuk padang rumput, savana, hutan tropis, dan daerah semi-kering.
+            Beberapa spesies juga dapat ditemukan di daerah pegunungan. Sebagian besar lovebird lebih suka tinggal di daerah dengan vegetasi lebat, di mana mereka dapat mencari perlindungan dan sumber makanan. Meskipun mereka mudah dipelihara sebagai hewan peliharaan, mereka membutuhkan perhatian dan interaksi sosial yang intensif agar tetap sehat secara mental dan fisik. Dengan perawatan yang tepat,
+            lovebird bisa menjadi teman yang setia dan menyenangkan bagi pemiliknya.
+        </item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/kakatua_putih</item>
+        <item>@drawable/kakatua_jambul_kuning</item>
+        <item>@drawable/nimfa</item>
+        <item>@drawable/eos_bornea</item>
+        <item>@drawable/beo_abu_afrika</item>
+        <item>@drawable/lorius_lory</item>
+        <item>@drawable/beo_eclectus</item>
+        <item>@drawable/beo_amazon</item>
+        <item>@drawable/beo_ciriciri</item>
+        <item>@drawable/love_bird</item>
+    </integer-array>
+</resources>

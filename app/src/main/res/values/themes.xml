@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Parrots" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="actionBarStyle">@style/CustomActionBar</item>
+    </style>
+
+    <style name="CustomActionBar" parent="Widget.AppCompat.ActionBar">
+        <item name="titleTextStyle">@style/CustomActionBarTitle</item>
+    </style>
+
+    <!-- Custom title text style -->
+    <style name="CustomActionBarTitle" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@android:color/white</item> <!-- Your desired color -->
+        <item name="android:textSize">20sp</item> <!-- Optional: customize text size -->
+    </style>
+
+    <style name="Theme.Parrots" parent="Base.Theme.Parrots" />
+</resources>
